@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bharat Bhojya - Taste of India</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, sans-serif;
+margin: 0;
+background-color: #fffaf4;
+color: #333;
+}
+header {
+background: linear-gradient(90deg, #ff6600, #ff3300);
+color: white;
+padding: 20px;
+text-align: center;
+}
+nav {
+background: #e65100;
+padding: 10px;
+text-align: center;
+}
+nav a {
+color: white;
+margin: 0 15px;
+text-decoration: none;
+font-weight: bold;
+}
+nav a:hover {
+text-decoration: underline;
+}
+section {
+padding: 20px;
+text-align: center;
+}
+.product {
+display: inline-block;
+background: white;
+margin: 15px;
+padding: 15px;
+border-radius: 12px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+width: 280px;
+transition: transform 0.2s;
+}
+.product:hover {
+transform: scale(1.05);
+}
+.product img {
+max-width: 100%;
+border-radius: 12px;
+}
+footer {
+background: #ff6600;
+color: white;
+text-align: center;
+padding: 15px;
+margin-top: 20px;
+}
+@media (max-width: 768px) {
+.product {
+width: 90%;
+}
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Bharat Bhojya</h1>
+<p>Taste of India, Delivered Fresh to Your Door</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Menu</a>
+<a href="#">About Us</a>
+<a href="#">Contact</a>
+</nav>
+
+<section>
+<h2>Our Special Snacks</h2>
+
+<div class="product">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Samosachutney.jpg" alt="Samosa">
+<h3>Fresh Samosa</h3>
+<p>Crispy & spicy samosas served with mint chutney.</p>
+</div>
+
+<div class="product">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Motichoor_ladoo.jpg" alt="Motichoor Ladoo">
+<h3>Motichoor Ladoo</h3>
+<p>Sweet, soft ladoos made with pure desi ghee.</p>
+</div>
+
+<div class="product">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Paneer_Pakoras.jpg" alt="Paneer Pakora">
+<h3>Paneer Pakora</h3>
+<p>Golden fried paneer pakoras with a spicy twist.</p>
+</div>
+</section>
+
+<footer>
+<p>📧 Email: <a href="mailto:bharatbhojyaa@gmail.com" style="color:white;">bharatbhojyaa@gmail.com</a></p>
+<p>&copy; 2025 Bharat Bhojya. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
