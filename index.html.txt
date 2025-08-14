@@ -84,22 +84,11 @@ width: 90%;
 <h2>Our Special Snacks</h2>
 
 <div class="product">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Samosachutney.jpg" alt="Samosa">
-<h3>Fresh Samosa</h3>
-<p>Crispy & spicy samosas served with mint chutney.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/solarbitestea.jpg" alt="Solar bites">
+<h3>Fresh Solar bites</h3>
+<p>Crispy & spicy solar bites try with tea.</p>
 </div>
 
-<div class="product">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Motichoor_ladoo.jpg" alt="Motichoor Ladoo">
-<h3>Motichoor Ladoo</h3>
-<p>Sweet, soft ladoos made with pure desi ghee.</p>
-</div>
-
-<div class="product">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Paneer_Pakoras.jpg" alt="Paneer Pakora">
-<h3>Paneer Pakora</h3>
-<p>Golden fried paneer pakoras with a spicy twist.</p>
-</div>
 </section>
 
 <footer>
@@ -108,4 +97,5 @@ width: 90%;
 </footer>
 
 </body>
+
 </html>
